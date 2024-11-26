@@ -1,0 +1,35 @@
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\appsettings.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).staticwebassets.runtime.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).staticwebassets.endpoints.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).exe
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).deps.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).runtimeconfig.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).dll
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\bin\Debug\net8.0\Session-1(Hero Section).pdb
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).AssemblyInfoInputs.cache
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).AssemblyInfo.cs
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).csproj.CoreCompileInputs.cache
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).RazorAssemblyInfo.cache
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).RazorAssemblyInfo.cs
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).sourcelink.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\scopedcss\bundle\Session-1(Hero Section).styles.css
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\scopedcss\projectbundle\Session-1(Hero Section).bundle.scp.css
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets\msbuild.Session-1(Hero Section).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets\msbuild.Session-1(Hero Section).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets\msbuild.build.Session-1(Hero Section).props
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Session-1(Hero Section).props
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Session-1(Hero Section).props
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).dll
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\refint\Session-1(Hero Section).dll
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).pdb
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\Session-1(Hero Section).genruntimeconfig.cache
+C:\Users\David Eze\Desktop\PROJECTS HUB\C# PROJECTS\Aptech(Eze Chinedu)\.Net Projects\Solution\Projects\Session-1(Hero Section)\obj\Debug\net8.0\ref\Session-1(Hero Section).dll

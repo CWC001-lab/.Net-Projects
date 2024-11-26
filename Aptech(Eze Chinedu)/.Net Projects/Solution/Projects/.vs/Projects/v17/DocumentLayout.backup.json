@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|c:\\users\\david eze\\desktop\\projects hub\\c# projects\\aptech(eze chinedu)\\.net projects\\solution\\projects\\session-1(hero section)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B1E5CF1-0367-44D1-ACB6-28E331E75025}|Session-1(Hero Section)\\Session-1(Hero Section).csproj|solutionrelative:session-1(hero section)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Privacy.cshtml*",
+              "RelativeToolTip": "Session-1(Hero Section)\\Views\\Home\\Privacy.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:43:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Session-1(Hero Section)\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:43:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Session-1(Hero Section)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:24:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Home\\About.cshtml*",
+              "RelativeToolTip": "Session-1(Hero Section)\\Views\\Home\\About.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:41:31.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Session-1(Hero Section)\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:02:42.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homepage.css",
+              "DocumentMoniker": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\wwwroot\\css\\homepage.css",
+              "RelativeDocumentMoniker": "Session-1(Hero Section)\\wwwroot\\css\\homepage.css",
+              "ToolTip": "C:\\Users\\David Eze\\Desktop\\PROJECTS HUB\\C# PROJECTS\\Aptech(Eze Chinedu)\\.Net Projects\\Solution\\Projects\\Session-1(Hero Section)\\wwwroot\\css\\homepage.css",
+              "RelativeToolTip": "Session-1(Hero Section)\\wwwroot\\css\\homepage.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T23:04:45.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
